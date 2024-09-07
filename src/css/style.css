@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--BackgroundColor);
+
+    font-family: var(--Font);
+}
+
+.card{
+    background-color: var(--CardColor);
+    max-width: 350px;
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px;
+
+    text-align: center;
+}
+
+.card
+    .qrCode img{
+        width: 100%;
+        border-radius: 10px;
+}
+
+.card
+    .info {
+        padding: 20px;
+}
+
+.card .info 
+    .descriptionHeader{
+        color: var(--Title);
+        font-weight: 700;
+        margin-bottom: 10px;
+}
+
+
+.footer {
+    margin: 20px;
+}
+
+.footer 
+    .attribution { 
+        font-size: 11px; 
+        text-align: center; 
+}
+
+.footer
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+}    

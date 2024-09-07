@@ -1,0 +1,16 @@
+:root{
+    /* ## Colors */
+
+    --BackgroundColor: hsl(212, 45%, 89%);
+    --CardColor: hsl(0, 0%, 100%);
+
+    /* ### Font */
+    --Font: "Outfit", system-ui;
+    
+    --Title: hsl(218, 44%, 22%);
+
+    --Paragraph: 
+        font-size: 15px;
+        font-weight: 400;
+        color: hsl(216, 15%, 48%);
+}
