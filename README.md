@@ -28,7 +28,7 @@ This is a simple page containing a card with a qr code and a description.
 ## Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-html5-e-css-6-newbie-qr-code-component-v1CkvK8VhJ)
-- Live Site URL: [Site Preview](https://ramon-alvez.github.io/qr-code-component-main/)
+- Live Site URL: [Site Preview](https://ramon-alvez.github.io/Frontend-Mentor-HTML-CSS-Newbie-QR-Code/)
 
 ## My process
 
